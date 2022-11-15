@@ -1,5 +1,4 @@
-# Object Detection
-### Algorithm: Mask R-CNN
+# Object Detection using Mask R-CNN
 ### Dataset: COCO dataset
 ### Technologies & Libraries:
 - PyTorch
